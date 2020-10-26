@@ -1,4 +1,4 @@
-#### Findings w/ Citi Bike Data
+# Findings w/ Citi Bike Data
 
 I wanted to explore whether Bike ID, Gender, and location affected trip avg.
 
